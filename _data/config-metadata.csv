@@ -13,4 +13,4 @@ rightsstatement,,,,DCTERMS.rights,license
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
-longitude,Longitude,,,,
+longitude,Longitud,,,,
